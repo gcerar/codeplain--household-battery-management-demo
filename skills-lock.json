@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "skills": {
+    "add-acceptance-test": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-acceptance-test/SKILL.md",
+      "computedHash": "0d5d45db33afbd70318a66e14d0260acbbdf3c32b3779730193a58a4f0f730a3"
+    },
+    "add-concept": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-concept/SKILL.md",
+      "computedHash": "72c9249e23875980ab9278ebe159f1f8b3a2fc09fecf1a76a800931f5b9c01ec"
+    },
+    "add-feature": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-feature/SKILL.md",
+      "computedHash": "73b96f4d9019e2cb736884c40cb16b5edef7d038feb88b440f1b8615c6e8d67c"
+    },
+    "add-functional-spec": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-functional-spec/SKILL.md",
+      "computedHash": "dd6eac48adde859073482022710cc8c0741bc52206ae827622bb6ae003a8e2cb"
+    },
+    "add-functional-specs": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-functional-specs/SKILL.md",
+      "computedHash": "2c319c5600c2f3f97934d1c38a63ad18f20d701692c4b0592c52e04824ae5878"
+    },
+    "add-implementation-requirement": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-implementation-requirement/SKILL.md",
+      "computedHash": "2a73b469cd0fb8ba79f70ef675509cfdbb0b06583cbc27d6a92f2070484256f1"
+    },
+    "add-resource": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-resource/SKILL.md",
+      "computedHash": "ae0f787cc37c74a4b78403e98de5cb210458228a426113665b6195d5c1d13961"
+    },
+    "add-template": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-template/SKILL.md",
+      "computedHash": "9c812d2d6b04ac807a70f3d94be6e54d22788b8ba157d38c1c4a5721d9a43698"
+    },
+    "add-test-requirement": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/add-test-requirement/SKILL.md",
+      "computedHash": "6c49648109d3b3ed7f43811098bff335a00611fb46e195796873445a9f1d35f3"
+    },
+    "analyze-2-func-specs": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/analyze-2-func-specs/SKILL.md",
+      "computedHash": "8dc417fd4574a2757d28f3c30cef0dab0e108725904de0bcb64d1922d8f97968"
+    },
+    "analyze-func-specs": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/analyze-func-specs/SKILL.md",
+      "computedHash": "8517d5e2f1a173e2412857a5187de50b0adcb78480d24bfaf5a75864dc98dddc"
+    },
+    "analyze-if-func-spec-too-complex": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/analyze-if-func-spec-too-complex/SKILL.md",
+      "computedHash": "834d0134274ad546e7ecb46413ceaf0696312e845be3ad41a1f4cfbbc55c1603"
+    },
+    "break-down-func-spec": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/break-down-func-spec/SKILL.md",
+      "computedHash": "eed313200a58514eee93ea0de68ce3b8fa7ff6d0aaec3c385ce35bbd249c31a1"
+    },
+    "check-plain-env": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/check-plain-env/SKILL.md",
+      "computedHash": "92acf72070f80a96de9d3cfc7a8a1d1828c5129c36b94c1d0d58347d7ec25730"
+    },
+    "consolidate-concepts": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/consolidate-concepts/SKILL.md",
+      "computedHash": "6e26893d32abcf28d949773d35b1612737ff6213bf0de4ca53921f6f5fcd6075"
+    },
+    "create-import-module": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/create-import-module/SKILL.md",
+      "computedHash": "c9741ac8d00dc57a9049d2bf7f666fdcded8120dd470d5fc6a95c112650f8522"
+    },
+    "create-requires-module": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/create-requires-module/SKILL.md",
+      "computedHash": "683dd67db7d5c4262b90bbce2716cae9c1e30908f2914ad065e2e64e54ab9033"
+    },
+    "debug-specs": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/debug-specs/SKILL.md",
+      "computedHash": "57ae15c94741b22614cd9118bfe27025cf4d8940a4f90d05f30b043b6079457c"
+    },
+    "forge-plain": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/forge-plain/SKILL.md",
+      "computedHash": "b9c84bc9821d1ddd98920de99243f662dce95541517c1b12601e181dd0a3bf61"
+    },
+    "implement-conformance-testing-script": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/implement-conformance-testing-script/SKILL.md",
+      "computedHash": "3c06bb04f642d2ea12ce49176fc13a2386d0e6d86b3bceb8a0346c6482d2f858"
+    },
+    "implement-prepare-environment-script": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/implement-prepare-environment-script/SKILL.md",
+      "computedHash": "8fd91feb8fcfa7999b2ea5a6ad00d5a3562f04b959c422b87f79e9c871e9f475"
+    },
+    "implement-unit-testing-script": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/implement-unit-testing-script/SKILL.md",
+      "computedHash": "a6a77317dfa6d8ab9640c5a24f080908800da59ebbdb3f96b647d76fadb05309"
+    },
+    "init-config-file": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/init-config-file/SKILL.md",
+      "computedHash": "9e3f865e011e250d1cc3f683b62094ab2125a44887b1feda926201527e5af701"
+    },
+    "load-plain-reference": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/load-plain-reference/SKILL.md",
+      "computedHash": "7d81444f94296552deedbe7714629474ff40d6ecc6cdcfd235ecd8c33065ac2c"
+    },
+    "plain-healthcheck": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/plain-healthcheck/SKILL.md",
+      "computedHash": "f0c8284d56637c7ec20f159bd513e1be6c2351c9117c31994752cee721095e76"
+    },
+    "refactor-module": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/refactor-module/SKILL.md",
+      "computedHash": "98490f6df482bb3d2461f12ef7dee1928df256bce86b664ed818b50fa4054920"
+    },
+    "resolve-spec-conflict": {
+      "source": "Codeplain-ai/plain-forge",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/resolve-spec-conflict/SKILL.md",
+      "computedHash": "116a190962fbd74ec8659794fc028bf4dad92396bbd4977b3167fc70be74f104"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+[project]
+name = "household_battery_management_env"
+version = "0.1.0"
+description = "A Gymnasium environment for household battery management with Slovenian tariff support."
+readme = "README.md"
+requires-python = ">=3.12"
+license = {text = "MIT"}
+dependencies = [
+    "gymnasium>=0.29.0",
+    "numpy>=1.26.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
